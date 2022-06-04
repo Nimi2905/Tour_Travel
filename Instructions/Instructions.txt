@@ -1,0 +1,3 @@
+install wamp server
+Firstly import the database file in phpmyadmin
+Name the database as 'tour'

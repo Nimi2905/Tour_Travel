@@ -1,0 +1,63 @@
+.main
+{
+	height: 100%;
+	width: 86%;
+	float:left;
+	background-image:url("t4.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	overflow-x: hidden;
+}
+
+.content{
+  background-color:rgba(0, 0, 0, .6);
+  border-radius: 20px;
+  padding: 30px;
+  width:60%;
+  height:80%;
+  margin:auto;
+  margin-top:40px;
+}
+
+input[type=text],input[type=password],input[type=email], select {
+  width:170%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+}
+
+
+h1
+{
+  color:white;
+}
+
+
+
+input[type=submit], input[type=reset] {
+  background-color: #4CAF50;
+  color: white;
+  margin:15px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  float: right;
+  font-weight: 950;
+}
+
+input[type=submit]:hover, input[type=reset]:hover {
+  background-color:khaki;
+  color:black;
+}
+
+.main table
+{
+	width: 70%;
+}
+
+.main td
+{
+	color:white;
+	padding:3px;
+}
